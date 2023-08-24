@@ -1,5 +1,5 @@
 Project Name: <b>Simple Fighting Games</b>
-<br />
+<br /><br />
 What is the project about: <b>Simulate a fighting games logic in Python</b>.
 <br />
 Programming Language used: <b>Python</b><br />
