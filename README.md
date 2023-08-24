@@ -1,4 +1,7 @@
-# Simple-Fighting-Games-w-Python
-i made this for Programming Hero Python sample code
+Project Name: Simple Fighting Games
 
-this was created by Fitrah Nuno Syahbani a.k.a BanDroid
+What is the project about: Simulate a fighting games logic in Python.
+
+Programming Language used: Python
+Your name: Fitrah Nuno Syahbani
+Your age and country: 20 yo, Indonesia.
